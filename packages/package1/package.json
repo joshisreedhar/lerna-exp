@@ -1,6 +1,6 @@
 {
   "name": "package1",
-  "private": true,
+  "version": "0.0.1",
   "devDependencies": {
     "jest": "^28.0.3"
   }
