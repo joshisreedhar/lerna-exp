@@ -1,0 +1,7 @@
+{
+  "name": "package1",
+  "private": true,
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
